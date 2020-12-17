@@ -2,11 +2,11 @@
 require 'api.php';
 $class = new coinmaster;
 popen('cls', 'w');
-echo "SPIN BY AUUTY \n";
-echo "FB:AUUTYMIZK \n";
+echo "SPIN BY MRP \n";
+echo "FB:PANUPONG H \n";
 echo "UPDATE API  \n";
-echo "0620650535 D0NATE \n";
-echo "------------------ [ AUUTY SPIN TH ] ------------------\n";
+echo "06939214892 D0NATE \n";
+echo "------------------ [ MRP SPIN TH ] ------------------\n";
 $link = readline("LINK : ");
 $count = readline("NUMBER : ");
 popen('cls', 'w');
